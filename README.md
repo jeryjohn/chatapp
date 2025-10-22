@@ -173,4 +173,4 @@ Push-to-talk with waveform visualization
 
 Jerin John
 💼 Flutter Developer
-📧 your.email@example.com
+📧 jerryjohhn123gmail.com
